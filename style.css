@@ -1,0 +1,24 @@
+body {
+	background-color: darkslategrey; font-size: 16px;
+}
+h1, h2 {
+	color: deepskyblue; font-family: "times new roman", sans-serif;  
+}
+p {
+	color: white; font-family: "courier new", sans-serif; font-size: 12pt;
+}
+p strong {
+	font-weight: bold; color: red;
+}
+ol {
+	list-style-type: lower-roman;
+}
+img {
+	width: 15%; height: 15%;
+}
+#second {
+	width: 20%; height: 15%;
+}
+li {
+	color: greenyellow;
+}
